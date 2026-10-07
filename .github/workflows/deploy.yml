@@ -1,4 +1,3 @@
-yaml
 name: Desplegar sitio en GitHub Pages
 
 # El flujo se activa con cada push en la rama main
